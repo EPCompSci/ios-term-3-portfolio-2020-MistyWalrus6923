@@ -2,7 +2,7 @@
 ios-term-3-portfolio-2020-MistyWalrus6923 created by GitHub Classroom
 
 
-Hi I'm Marc Kurtenbach, I'm a Senior at Eden Prairie High school and I have a small background in coding and computer science. Starting the class out I've browsed through many tutorials to acquire knowledge to pull together to create my own projects even when its a bit slow going. 
+Hi I'm Marc Kurtenbach, I'm a Senior at Eden Prairie High school and I have a small background in coding and computer science. Starting the class out I've browsed through many tutorials to acquire knowledge to pull together to create my own projects even when its a bit slow going. While I didn't take Java as a class I did learn a little bit from Computer science principles. I'm getting more used to Swift and SpriteKit and I would like to learn python someday.
 
 Project 1- Farming Clicker App
 A clicker app is always a great first app to branch off in a class, especially when you can learn other tricks and code pieces that could be used in other projects. In this app I further got used to the swift Ui and coding while using multiple code tricks like creating a working timer, a click counter, multiplier count, swapping colors and pages, and the general set up for images. The clock code was a obstacle to climb because it proved to have multiple vague errors with different pieces of code until I figured out the right code to use.
